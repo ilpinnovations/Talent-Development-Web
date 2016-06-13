@@ -1,0 +1,89 @@
+Talent Development Android App Links
+
+1) Submit Feedback [Send JSON Array with the foollowing arguements]
+these should come under keyword "data"
+sessionId;
+employeeId;
+date;
+registrationId;
+f2_rat1;
+f2_rat2;
+f2_rat3;
+f2_rat4;
+f2_rat5;
+f2_rat6;
+f2_rat7;
+f2_rat8;
+f2_rat9;
+f2_rat10;
+com1_f2;
+com2_f2;
+
+f1_rat1;
+f1_rat2;
+com1_f1;
+f1_rat3;
+f1_rat4;
+com2_f1;
+f1_rat5;
+f1_rat6;
+com3_f1;
+f1_rat7;
+f1_rat8;
+com4_f1;
+f1_rat9;
+f1_rat10;
+com5_f1;
+
+http://theinspirer.in/talentdevelopmentuki/Android/feedback.php
+
+2)Get Registered Sessions
+http://theinspirer.in/talentdevelopmentuki/Android/get_registered_sessions.php?emp_id=
+
+3)Get Timestamp
+http://theinspirer.in/talentdevelopmentuki/Android/get_timestamp.php?
+
+4)Get Upcoming Sessions
+http://theinspirer.in/talentdevelopmentuki/Android/get_upcoming_session.php?emp_id=
+
+5)Give Attendence
+http://theinspirer.in/talentdevelopmentuki/Android/give_attendence.php?emp_id=&session_id=
+
+6)Mark Attendence for multiple days
+http://theinspirer.in/talentdevelopmentuki/Android/mark_attendence.php?emp_id=&session_id=&date=&registration_id=
+
+7)Register User [Post Request]
+http://theinspirer.in/talentdevelopmentuki/Android/register_usesr.php?emp_id=&emp_email=&emp_name=
+
+8)Registered sessions for multiple day session
+http://theinspirer.in/talentdevelopmentuki/Android/registered_sessions.php?emp_id=&session_id=&registration_id=
+
+9)Session Attend
+http://theinspirer.in/talentdevelopmentuki/Android/session_attend.php?emp_id=&session_id=
+
+10)Session Details
+http://theinspirer.in/talentdevelopmentuki/Android/session_details.php?emp_id=
+
+11) FAQ
+http://theinspirer.in/talentdevelopmentuki/Android/faq.php
+
+12) Contacts
+http://theinspirer.in/talentdevelopmentuki/Android/contacts.php
+
+13) Workshops
+http://theinspirer.in/talentdevelopmentuki/Android/session_categories.php?emp_id=1001429&category=workshop
+14) WebX
+http://theinspirer.in/talentdevelopmentuki/Android/session_categories.php?emp_id=1001429&category=webx
+15) TCSION
+http://theinspirer.in/talentdevelopmentuki/Android/session_categories.php?emp_id=1001429&category=tcsion
+16) Certifications
+http://theinspirer.in/talentdevelopmentuki/Android/session_categories.php?emp_id=1001429&category=certifications
+
+17) Learning Ambassador List
+http://theinspirer.in/talentdevelopmentuki/Android/learning_ambassador_list.php?emp_id=458538
+
+18) Notifications
+http://theinspirer.in/talentdevelopmentuki/Android/notification.php?emp_id=458538
+
+19) On demand sessions
+http://theinspirer.in/talentdevelopmentuki/Android/session_categories.php?emp_id=1001429&category=ondemand
